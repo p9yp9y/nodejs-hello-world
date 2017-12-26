@@ -1,0 +1,22 @@
+{
+  "name": "dobrosi-hello-world",
+  "version": "1.0.1",
+  "description": "Hello World application for testing execution with command line arguments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dobrosi/nodejs-hello-world.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Andras, Dobrosi <dobrosi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dobrosi/nodejs-hello-world/issues"
+  },
+  "homepage": "https://github.com/dobrosi/nodejs-hello-world#readme"
+}
