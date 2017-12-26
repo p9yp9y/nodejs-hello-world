@@ -11,5 +11,9 @@ $ npm install dobrosi-hello-world
 ## Usage
 
 ```sh
-$ nodejs dobrosi-hello-world/index.js
+$ nodejs node_modules/dobrosi-hello-world/index.js
+```
+or
+```sh
+$ nodejs node_modules/dobrosi-hello-world/index.js Andris
 ```
